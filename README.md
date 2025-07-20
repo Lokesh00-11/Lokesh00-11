@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **frontend development**
 
-- 👯 I’m looking to collaborate on **web development**
 
 - 💬 Ask me about **HTML,CSS and JS**
 
