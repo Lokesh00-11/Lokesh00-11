@@ -33,14 +33,14 @@ I'm a passionate software developer who loves building elegant and effective sol
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Project Title 1</h3>
+<h3 align="center">Library Management System</h3>
 <br />
 <a target="_blank" href="[LINK_TO_YOUR_PROJECT_1]">
 <img src="https://placehold.co/400x200/2D3748/E2E8F0?text=Project+1+Screenshot" alt="Project 1 Screenshot"/>
 </a>
 <br />
 <p>
-<strong>[SHORT_PROJECT_DESCRIPTION_1]</strong> A brief summary of your project, the problem it solves, and the technologies you used.
+<strong>[Library Management System]</strong> A brief summary of your project, the problem it solves, and the technologies you used.
 </p>
 </td>
 <td width="50%" valign="top">
